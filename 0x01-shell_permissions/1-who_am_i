@@ -1,2 +1,2 @@
 #!/bin/bash
-_uid="$(id -u)"
+echo "User name : $_user"
